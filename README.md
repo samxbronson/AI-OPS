@@ -3,6 +3,7 @@
 ## AI-Driven Operations
 
 Many of the systems, frameworks, and assets in this repository were developed through structured AI-augmented workflows.  
+
 I use AI models as operational partners -- to accelerate drafting, ideation, formatting, and refinement processes -- while maintaining strict human oversight, system design, and strategic direction.
 
 This project is a working example of how AI can be systematically leveraged for serious, production-grade system building, rather than casual or unstructured experimentation.
