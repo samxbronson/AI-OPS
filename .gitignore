@@ -1,0 +1,16 @@
+# Ignore Mac system files
+*.DS_Store
+
+# Ignore temp files
+*.tmp
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore secrets
+.env
+
+# Ignore private research
+research_logs/
+experimental_systems/
+drafts/
