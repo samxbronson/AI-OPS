@@ -12,5 +12,5 @@ __pycache__/
 
 # Ignore private research
 research_logs/
-experimental_systems/
+experimental/
 drafts/
