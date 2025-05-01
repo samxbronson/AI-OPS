@@ -29,7 +29,7 @@ The goal is to build and refine **scalable, resilient, and efficient AI augmenta
 |--------|---------|
 | `/prompts/` | Versioned prompt assets categorized by function (System, Instruction, Input, Chain Node). |
 | `/sessions/` | Documented AI interaction sessions with structured context, prompts, outcomes, and insights. |
-| `/results/` | Condensed session outputs and exports for operational reuse and analysis. |
+| `/exports/` | Condensed session outputs and exports for operational reuse and analysis. |
 | `/assets/` | Supporting diagrams, visual maps, and documentation resources. |
 
 > **Note:** Research logs, experimental systems, and internal templates are private (gitignored) to maintain operational focus and protect R&D pipelines.
