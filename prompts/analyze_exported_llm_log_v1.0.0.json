@@ -1,0 +1,25 @@
+{
+    "title": "Analyze Exported LLM Log for Insights and Actions",
+    "prompt_type": "instruction",
+    "role": "expert analyst",
+    "topic": "conversation analysis",
+    "description": "Extract actionable takeaways, insights, high-level summaries, and structured talking points from an exported LLM conversation log.",
+    "version": "1.0",
+    "date_created": "2025-04-26",
+    "last_updated": "2025-04-26",
+    "author": "Prompt Engineer",
+    "status": "active",
+    "priority": "high",
+    "intended_use": "internal",
+    "audience": ["developers", "product managers", "analysts"],
+    "tags": ["analysis", "conversation", "log", "summary", "actionable insights"],
+    "uuid": "c0ffee-llm-log-analysis-001",
+    "filename": "analyze_exported_llm_log_v1.0.json",
+    "input_format": "freeform",
+    "output_format": "Multi-Section Text",
+    "linked_assets": [],
+    "dependencies": [],
+    "prompt": "You are an expert analyst. Your task is to read through an exported LLM conversation log and extract:\n\n1. Actionable Takeaways: Summarize clear action steps or recommendations based on the conversation.\n2. Insights: Highlight important observations, patterns, or ideas discussed.\n3. High-Level Summary: Give a concise overview (3-5 bullet points) of the main themes.\n4. Structured Talking Points: Break down each high-level theme into smaller talking points or steps for easy discussion.\n\nFormatting:\n- Start with a quick executive summary (max 5 sentences).\n- Use clear headings: Action Steps, Insights, High-Level Summary, Talking Points.\n- Number lists where appropriate for easy interaction and follow-up.\n- Make responses brief, clear, and easy to navigate for further conversation.\n\nTone: Professional but conversational. Keep it readable and direct.",
+    "template_variables": []
+  }
+  
